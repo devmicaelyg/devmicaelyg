@@ -5,7 +5,7 @@
 </p>
 
 ### 💻 Formação
-Graduando em tecnologia de análise e desenvolvimento de sistemas - Primeiro período
+Graduando em tecnologia de análise e desenvolvimento de sistemas
 
 ### 🚀 Tecnologias Estudadas
 **Front-end:** Desenvolvimento web - HTML5, CSS3, JavaScript 
