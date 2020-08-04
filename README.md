@@ -8,7 +8,7 @@
 Graduando em tecnologia de análise e desenvolvimento de sistemas
 
 ### 🚀 Tecnologias Estudadas
-**Front-end:** Desenvolvimento web - HTML5, CSS3, JavaScript 
+**Front-end:** HTML5, CSS3, JavaScript 
 
 **Em processo de estudo:** ReactJS
 
