@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">
+<!--   <img alt="Ícone do projeto" title="Terminal" src=".github/" width="100px" /> -->
+   <img alt="Logo" src="https://i.imgur.com/kJlW4jI.png">
+</h1>
+</p>
 
-<!--
-**devmicaelyg/devmicaelyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Formação
+Graduando em tecnologia de análise e desenvolvimento de sistemas - Primeiro período
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias Estudadas
+**Front-end:** Desenvolvimento web - HTML5, CSS3, JavaScript 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Em processo de estudo:** ReactJS
+
+**Back-end:** NodeJs, MongoDB 
+
+### 📫 Contate-me 
+**Email:** devmicaely@gmail.com
+
+**Instagram:** @devmicaelyg
