@@ -8,13 +8,15 @@
 Graduando em tecnologia de análise e desenvolvimento de sistemas
 
 ### 🚀 Tecnologias Estudadas
-**Front-end:** HTML5, CSS3 
+**Front-end:** HTML5, CSS3, ReactJS
 
-**Em processo de estudo:** ReactJS, React Native
+**Movbile: React Native 
 
-**Back-end:** NodeJs, MongoDB
+**Back-end:** NodeJs, MongoDB, Sprig
 
 **Linguagem de programação:** Javascript e Typescript
+
+**Atualmente usando em ambiente de trabalho:** Angular 9 e 8, Spring, Docker, Bancos Relacionais.
 
 ### 📫 Contate-me 
 **Email:** devmicaely@gmail.com
