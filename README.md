@@ -2,7 +2,7 @@
 </p>
 
 <h1 float="right">
-   <img alt="Logo" src="https://imgur.com/a/oXJu1dP#x9QuAfE">
+   <img alt="Logo" src="https://imgur.com/x9QuAfE">
 </h1>
 
 I'm a front-end developer, but I also work on the back-end. I do systems analysis and development 💻 
