@@ -11,7 +11,8 @@ I'm a front-end developer, but I also work on the back-end. I do systems analysi
 
 If you want to get in touch, here are some ways :speech_balloon:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devmicaelyg)](https://github.com/devmicaelyg)
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/devmicaelyg)](https://github.com/devmicaelyg)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&linkhttps://www.linkedin.com/in/micaelygusmao/)](https://www.linkedin.com/in/micaely-gusmão-23b8641b0)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/devmicaelyg/)](https://www.instagram.com/devmicaelyg/)
 
