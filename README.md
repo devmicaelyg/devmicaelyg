@@ -1,6 +1,10 @@
 # Hi, I'm Micaely! :D
 </p>
 
+<h1 float="right">
+   <img alt="Logo" src="https://i.imgur.com/kJlW4jI.png">
+</h1>
+
 I'm a front-end developer, but I also work on the back-end. I do systems analysis and development 💻 
 
 🚀 I have experiences with Angular Js and Spring Boot, in addition to developing some projects with React. 
