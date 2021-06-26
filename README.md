@@ -7,7 +7,7 @@
 
 I'm a front-end developer, but I also work on the back-end. I do systems analysis and development 💻 
 
-🚀 I have experiences with Angular Js and Spring Boot, in addition to developing some projects with React. 
+🚀 I have experiences with Angular Js, Spring Boot, Aspnet Core and in addition to developing some projects with React. 
 
 If you want to get in touch, here are some ways :speech_balloon:
 
