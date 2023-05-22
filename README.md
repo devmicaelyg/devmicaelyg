@@ -7,7 +7,15 @@
 
 I'm a fullstack developer. I do systems analysis and development 💻 
 
-🚀 I have experiences with Angular Js, Spring Boot, Aspnet Core and in addition to developing some projects with React. 
+🚀 I have experiences with:
+- Angular JS 
+- Angular 2+
+- React 
+- Spring Boot
+- .NET
+- EF 6
+- JSP
+- ASP 
 
 If you want to get in touch, here are some ways :speech_balloon:
 
@@ -17,4 +25,5 @@ If you want to get in touch, here are some ways :speech_balloon:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/devmicaelyg/)](https://www.instagram.com/devmicaelyg/)
 
 See you later.. :nerd_face:
+ 
  
